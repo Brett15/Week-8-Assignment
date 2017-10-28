@@ -17,24 +17,26 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 ## Blue
 
 Vulnerability #1: SQL Injection
-<img src='https://i.imgur.com/undefined.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/Y0oIplr.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Vulnerability #2: Session Hijacking/Fixation
-<img src='https://i.imgur.com/undefined.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/rqsx2uv.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Green
 
 Vulnerability #1: Username Enumeration
 <img src='https://i.imgur.com/GqDA2P3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 Vulnerability #2: Cross-Site Scripting (XSS)
-<img src='https://i.imgur.com/undefined.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/v3zlotF.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Red
 
 Vulnerability #1: Insecure Direct Object Reference (IDOR)
-<img src='https://i.imgur.com/undefined.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/y1lSbOy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 Vulnerability #2: Cross-Site Request Forgery (CSRF)
-<img src='https://i.imgur.com/undefined.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/G4eP3Ms.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
